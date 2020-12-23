@@ -1,3 +1,5 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # Iris-Flowers-ML-Project
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris).
@@ -12,4 +14,8 @@ The columns in this dataset are:
 - PetalLengthCm
 - PetalWidthCm
 - Species
+
+# Purpose
+
+The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas, Joblib and Data Visualization Libraries.
 
